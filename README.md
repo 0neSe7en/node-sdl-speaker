@@ -84,7 +84,7 @@ Clean this audio source's buffer.
 ## TODO
 
 - [ ] More Test.
-- [ ] Fix Travis-CI build failed.
+- [x] Fix Travis-CI build failed.
 - [x] Pipe stream to `audioSource`.
 - [ ] Customise `rbuf` capability.
 - [x] Self contained `SDL2`.
