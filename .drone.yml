@@ -1,0 +1,8 @@
+kind: pipeline
+name: default
+
+steps:
+- name: build
+  image: node:12
+  commands:
+  - node-gyp rebuild
